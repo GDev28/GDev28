@@ -7,7 +7,7 @@
 
 - I’m currently working on **Metsy's World**
 
-- 🌱 I’m currently learning **Unreal Engine**
+- I’m currently learning **Unreal Engine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
