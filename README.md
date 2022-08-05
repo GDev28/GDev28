@@ -1,4 +1,4 @@
-<h1 align="center">Yo i'm G...</h1>
+<h1 align="center">Hey i'm G...</h1>
 <h3 align="center">I'm a student, a game Developer trying to make a living somehow :\</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdev28&label=Profile%20views&color=0e75b6&style=flat" alt="gdev28" /> </p>
