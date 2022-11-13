@@ -1,7 +1,7 @@
 <h1 align="center">Hey i'm GDev</h1>
 <h3 align="center">I'm a student, a game Developer trying to make a living somehow :\</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gdev28&label=Profile%20views&color=0e75b6&style=flat" alt="gdev28" /> </p>
+<p>&nbsp;<img align="center" src="https://github.com/gdev28/gdev28/blob/output/github-contribution-grid-snake.gif" alt="gdev28" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdev28" alt="gdev28" /></a> </p>
 
